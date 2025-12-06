@@ -1,0 +1,2 @@
+--Q1: How can we prevent someone from deleting a customer from the table?
+--A: lets analyze further by making research and then answer the question in the next step. 
